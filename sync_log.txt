@@ -1,0 +1,299 @@
+2025-01-29 22:08:40,990 - INFO - Starting Canvas to Notion sync
+2025-01-29 22:08:41,213 - INFO - Found 7 current semester courses
+2025-01-29 22:08:41,213 - INFO - Processing course: 2025SP-COMP_SCI-1200-102
+2025-01-29 22:08:41,547 - INFO - Found 3 assignments in 2025SP-COMP_SCI-1200-102
+2025-01-29 22:08:41,547 - INFO - Creating/updating Notion page for assignment: Syllabus quiz
+2025-01-29 22:08:44,824 - INFO - Creating/updating Notion page for assignment: discussion_bonus
+2025-01-29 22:08:45,453 - INFO - Creating/updating Notion page for assignment: pa00_factors
+2025-01-29 22:08:46,250 - INFO - Processing course: 2025SP-MATH-3108-104
+2025-01-29 22:08:46,760 - INFO - Found 10 assignments in 2025SP-MATH-3108-104
+2025-01-29 22:08:46,761 - INFO - Creating/updating Notion page for assignment: Section 2.1 Homework
+2025-01-29 22:08:47,359 - INFO - Creating/updating Notion page for assignment: Section 6.1 Homework
+2025-01-29 22:08:48,062 - INFO - Creating/updating Notion page for assignment: Section 1.4 Homework
+2025-01-29 22:08:48,696 - INFO - Creating/updating Notion page for assignment: Section 1.5 Homework
+2025-01-29 22:08:49,920 - INFO - Creating/updating Notion page for assignment: Section 6.3 Homework
+2025-01-29 22:08:51,878 - INFO - Creating/updating Notion page for assignment: Section 4.2 Homework
+2025-01-29 22:08:52,697 - INFO - Creating/updating Notion page for assignment: Section 1.7 Homework
+2025-01-29 22:08:53,280 - INFO - Creating/updating Notion page for assignment: Section 1.8 Homework
+2025-01-29 22:08:53,844 - INFO - Creating/updating Notion page for assignment: Section 2.3 Homework
+2025-01-29 22:08:54,384 - INFO - Creating/updating Notion page for assignment: Section 3.3 Homework
+2025-01-29 22:08:55,016 - INFO - Processing course: 2025SP-MATH-3304-103
+2025-01-29 22:08:55,506 - INFO - Found 10 assignments in 2025SP-MATH-3304-103
+2025-01-29 22:08:55,507 - INFO - Creating/updating Notion page for assignment: Section 1.1
+2025-01-29 22:08:56,154 - INFO - Creating/updating Notion page for assignment: Section 1.2
+2025-01-29 22:08:56,708 - INFO - Creating/updating Notion page for assignment: Section 1.3
+2025-01-29 22:08:57,284 - INFO - Creating/updating Notion page for assignment: Section 2.2
+2025-01-29 22:08:58,286 - INFO - Creating/updating Notion page for assignment: Section 2.3
+2025-01-29 22:08:59,077 - INFO - Creating/updating Notion page for assignment: Section 3.2
+2025-01-29 22:08:59,669 - INFO - Creating/updating Notion page for assignment: Section 4.2
+2025-01-29 22:09:00,194 - INFO - Creating/updating Notion page for assignment: Section 4.3
+2025-01-29 22:09:00,768 - INFO - Creating/updating Notion page for assignment: Section 4.4
+2025-01-29 22:09:01,629 - INFO - Creating/updating Notion page for assignment: Section 4.5
+2025-01-29 22:09:02,261 - INFO - Processing course: 2025SP-MISC-HONORS-202
+2025-01-29 22:09:02,600 - INFO - Found 3 assignments in 2025SP-MISC-HONORS-202
+2025-01-29 22:09:02,600 - INFO - Creating/updating Notion page for assignment: Feb. Seminar 
+2025-01-29 22:09:03,336 - INFO - Creating/updating Notion page for assignment: March Seminar  
+2025-01-29 22:09:04,084 - INFO - Creating/updating Notion page for assignment: April Seminar
+2025-01-29 22:09:04,913 - INFO - Processing course: 2025SP-PHYSICS-2129-1A
+2025-01-29 22:09:05,261 - INFO - Found 3 assignments in 2025SP-PHYSICS-2129-1A
+2025-01-29 22:09:05,261 - INFO - Creating/updating Notion page for assignment: Assignment 1
+2025-01-29 22:09:06,669 - INFO - Creating/updating Notion page for assignment: Laboratory 1
+2025-01-29 22:09:07,267 - INFO - Creating/updating Notion page for assignment: Assignment 2
+2025-01-29 22:09:07,881 - INFO - Processing course: 2025SP-PHYSICS-2305-101
+2025-01-29 22:09:08,215 - INFO - Found 5 assignments in 2025SP-PHYSICS-2305-101
+2025-01-29 22:09:08,215 - INFO - Creating/updating Notion page for assignment: HW01
+2025-01-29 22:09:08,841 - INFO - Creating/updating Notion page for assignment: HW02
+2025-01-29 22:09:09,853 - INFO - Creating/updating Notion page for assignment: Exam I
+2025-01-29 22:09:12,268 - INFO - Creating/updating Notion page for assignment: Exam II
+2025-01-29 22:09:12,922 - INFO - Creating/updating Notion page for assignment: Exam III
+2025-01-29 22:09:13,736 - INFO - Processing course: 2025SP-PHYSICS-2401-101
+2025-01-29 22:09:14,376 - INFO - Found 10 assignments in 2025SP-PHYSICS-2401-101
+2025-01-29 22:09:14,376 - INFO - Creating/updating Notion page for assignment: Lecture 1: Complex numbers
+2025-01-29 22:09:14,597 - ERROR - Sync failed: float() argument must be a string or a real number, not 'NoneType'
+2025-01-29 22:10:24,612 - INFO - Starting Canvas to Notion sync
+2025-01-29 22:10:24,932 - INFO - Found 7 current semester courses
+2025-01-29 22:10:24,932 - INFO - Processing course: 2025SP-COMP_SCI-1200-102
+2025-01-29 22:10:25,298 - INFO - Found 3 assignments in 2025SP-COMP_SCI-1200-102
+2025-01-29 22:10:25,299 - INFO - Creating/updating Notion page for assignment: Syllabus quiz
+2025-01-29 22:10:25,992 - INFO - Creating/updating Notion page for assignment: discussion_bonus
+2025-01-29 22:10:26,587 - INFO - Creating/updating Notion page for assignment: pa00_factors
+2025-01-29 22:10:27,229 - INFO - Processing course: 2025SP-MATH-3108-104
+2025-01-29 22:10:27,704 - INFO - Found 10 assignments in 2025SP-MATH-3108-104
+2025-01-29 22:10:27,704 - INFO - Creating/updating Notion page for assignment: Section 2.1 Homework
+2025-01-29 22:10:28,294 - INFO - Creating/updating Notion page for assignment: Section 6.1 Homework
+2025-01-29 22:10:28,962 - INFO - Creating/updating Notion page for assignment: Section 1.4 Homework
+2025-01-29 22:10:33,826 - INFO - Creating/updating Notion page for assignment: Section 1.5 Homework
+2025-01-29 22:10:34,416 - INFO - Creating/updating Notion page for assignment: Section 6.3 Homework
+2025-01-29 22:10:35,118 - INFO - Creating/updating Notion page for assignment: Section 4.2 Homework
+2025-01-29 22:10:38,379 - INFO - Creating/updating Notion page for assignment: Section 1.7 Homework
+2025-01-29 22:10:38,971 - INFO - Creating/updating Notion page for assignment: Section 1.8 Homework
+2025-01-29 22:10:43,165 - INFO - Creating/updating Notion page for assignment: Section 2.3 Homework
+2025-01-29 22:10:43,833 - INFO - Creating/updating Notion page for assignment: Section 3.3 Homework
+2025-01-29 22:10:44,455 - INFO - Processing course: 2025SP-MATH-3304-103
+2025-01-29 22:10:44,927 - INFO - Found 10 assignments in 2025SP-MATH-3304-103
+2025-01-29 22:10:44,927 - INFO - Creating/updating Notion page for assignment: Section 1.1
+2025-01-29 22:10:45,509 - INFO - Creating/updating Notion page for assignment: Section 1.2
+2025-01-29 22:10:46,117 - INFO - Creating/updating Notion page for assignment: Section 1.3
+2025-01-29 22:10:47,124 - INFO - Creating/updating Notion page for assignment: Section 2.2
+2025-01-29 22:10:47,721 - INFO - Creating/updating Notion page for assignment: Section 2.3
+2025-01-29 22:10:48,794 - INFO - Creating/updating Notion page for assignment: Section 3.2
+2025-01-29 22:10:50,102 - INFO - Creating/updating Notion page for assignment: Section 4.2
+2025-01-29 22:10:50,727 - INFO - Creating/updating Notion page for assignment: Section 4.3
+2025-01-29 22:10:51,427 - INFO - Creating/updating Notion page for assignment: Section 4.4
+2025-01-29 22:10:52,014 - INFO - Creating/updating Notion page for assignment: Section 4.5
+2025-01-29 22:10:52,574 - INFO - Processing course: 2025SP-MISC-HONORS-202
+2025-01-29 22:10:52,948 - INFO - Found 3 assignments in 2025SP-MISC-HONORS-202
+2025-01-29 22:10:52,948 - INFO - Creating/updating Notion page for assignment: Feb. Seminar 
+2025-01-29 22:10:54,155 - INFO - Creating/updating Notion page for assignment: March Seminar  
+2025-01-29 22:10:54,791 - INFO - Creating/updating Notion page for assignment: April Seminar
+2025-01-29 22:10:55,364 - INFO - Processing course: 2025SP-PHYSICS-2129-1A
+2025-01-29 22:10:55,720 - INFO - Found 3 assignments in 2025SP-PHYSICS-2129-1A
+2025-01-29 22:10:55,720 - INFO - Creating/updating Notion page for assignment: Assignment 1
+2025-01-29 22:10:56,290 - INFO - Creating/updating Notion page for assignment: Laboratory 1
+2025-01-29 22:10:59,168 - INFO - Creating/updating Notion page for assignment: Assignment 2
+2025-01-29 22:11:03,244 - INFO - Processing course: 2025SP-PHYSICS-2305-101
+2025-01-29 22:11:03,591 - INFO - Found 5 assignments in 2025SP-PHYSICS-2305-101
+2025-01-29 22:11:03,591 - INFO - Creating/updating Notion page for assignment: HW01
+2025-01-29 22:11:04,255 - INFO - Creating/updating Notion page for assignment: HW02
+2025-01-29 22:11:04,862 - INFO - Creating/updating Notion page for assignment: Exam I
+2025-01-29 22:11:05,474 - INFO - Creating/updating Notion page for assignment: Exam II
+2025-01-29 22:11:06,094 - INFO - Creating/updating Notion page for assignment: Exam III
+2025-01-29 22:11:06,666 - INFO - Processing course: 2025SP-PHYSICS-2401-101
+2025-01-29 22:11:07,533 - INFO - Found 10 assignments in 2025SP-PHYSICS-2401-101
+2025-01-29 22:11:07,533 - INFO - Creating/updating Notion page for assignment: Lecture 1: Complex numbers
+2025-01-29 22:11:08,202 - INFO - Creating/updating Notion page for assignment: Lecture 2: Vectors
+2025-01-29 22:11:09,509 - INFO - Creating/updating Notion page for assignment: Lecture 3: Vector Product
+2025-01-29 22:11:10,069 - INFO - Creating/updating Notion page for assignment: Lecture 4: Applications of vectors
+2025-01-29 22:11:10,599 - INFO - Creating/updating Notion page for assignment: Lecture 5: Vector transformations
+2025-01-29 22:11:11,191 - INFO - Creating/updating Notion page for assignment: Lecture 6: Eigenvalue problem (linear eqs)
+2025-01-29 22:11:12,270 - INFO - Creating/updating Notion page for assignment: Lecture 7: Eigenvalue and eigenvectors
+2025-01-29 22:11:12,766 - INFO - Creating/updating Notion page for assignment: Lecture 8: General vector spaces
+2025-01-29 22:11:15,125 - INFO - Creating/updating Notion page for assignment: Lecture 9: Linear Operators
+2025-01-29 22:11:15,715 - INFO - Creating/updating Notion page for assignment: HW1
+2025-01-29 22:11:16,266 - INFO - Sync completed successfully
+2025-01-29 22:15:07,856 - INFO - Starting Canvas to Notion sync
+2025-01-29 22:15:08,100 - INFO - Found 7 current semester courses
+2025-01-29 22:15:08,101 - INFO - Processing course: 2025SP-COMP_SCI-1200-102
+2025-01-29 22:15:08,442 - INFO - Found 3 assignments in 2025SP-COMP_SCI-1200-102
+2025-01-29 22:15:08,442 - INFO - Creating/updating Notion page for assignment: Syllabus quiz
+2025-01-29 22:15:09,325 - INFO - Creating new page for: Syllabus quiz
+2025-01-29 22:15:09,700 - INFO - Creating/updating Notion page for assignment: discussion_bonus
+2025-01-29 22:15:10,117 - INFO - Creating new page for: discussion_bonus
+2025-01-29 22:15:10,566 - INFO - Creating/updating Notion page for assignment: pa00_factors
+2025-01-29 22:15:11,290 - INFO - Creating new page for: pa00_factors
+2025-01-29 22:15:11,681 - INFO - Processing course: 2025SP-MATH-3108-104
+2025-01-29 22:15:12,308 - INFO - Found 10 assignments in 2025SP-MATH-3108-104
+2025-01-29 22:15:12,308 - INFO - Creating/updating Notion page for assignment: Section 2.1 Homework
+2025-01-29 22:15:12,987 - INFO - Creating new page for: Section 2.1 Homework
+2025-01-29 22:15:13,378 - INFO - Creating/updating Notion page for assignment: Section 6.1 Homework
+2025-01-29 22:15:13,950 - INFO - Creating new page for: Section 6.1 Homework
+2025-01-29 22:15:14,309 - INFO - Creating/updating Notion page for assignment: Section 1.4 Homework
+2025-01-29 22:15:14,694 - INFO - Creating new page for: Section 1.4 Homework
+2025-01-29 22:15:15,061 - INFO - Creating/updating Notion page for assignment: Section 1.5 Homework
+2025-01-29 22:15:15,432 - INFO - Creating new page for: Section 1.5 Homework
+2025-01-29 22:15:17,810 - INFO - Creating/updating Notion page for assignment: Section 6.3 Homework
+2025-01-29 22:15:18,226 - INFO - Creating new page for: Section 6.3 Homework
+2025-01-29 22:15:19,332 - INFO - Creating/updating Notion page for assignment: Section 4.2 Homework
+2025-01-29 22:15:19,859 - INFO - Creating new page for: Section 4.2 Homework
+2025-01-29 22:15:20,318 - INFO - Creating/updating Notion page for assignment: Section 1.7 Homework
+2025-01-29 22:15:20,686 - INFO - Creating new page for: Section 1.7 Homework
+2025-01-29 22:15:21,052 - INFO - Creating/updating Notion page for assignment: Section 1.8 Homework
+2025-01-29 22:15:21,809 - INFO - Creating new page for: Section 1.8 Homework
+2025-01-29 22:15:22,173 - INFO - Creating/updating Notion page for assignment: Section 2.3 Homework
+2025-01-29 22:15:22,589 - INFO - Creating new page for: Section 2.3 Homework
+2025-01-29 22:15:22,998 - INFO - Creating/updating Notion page for assignment: Section 3.3 Homework
+2025-01-29 22:15:27,300 - INFO - Creating new page for: Section 3.3 Homework
+2025-01-29 22:15:27,764 - INFO - Processing course: 2025SP-MATH-3304-103
+2025-01-29 22:15:28,196 - INFO - Found 10 assignments in 2025SP-MATH-3304-103
+2025-01-29 22:15:28,197 - INFO - Creating/updating Notion page for assignment: Section 1.1
+2025-01-29 22:15:28,598 - INFO - Creating new page for: Section 1.1
+2025-01-29 22:15:29,057 - INFO - Creating/updating Notion page for assignment: Section 1.2
+2025-01-29 22:15:29,664 - INFO - Creating new page for: Section 1.2
+2025-01-29 22:15:30,065 - INFO - Creating/updating Notion page for assignment: Section 1.3
+2025-01-29 22:15:30,484 - INFO - Creating new page for: Section 1.3
+2025-01-29 22:15:30,898 - INFO - Creating/updating Notion page for assignment: Section 2.2
+2025-01-29 22:15:31,312 - INFO - Creating new page for: Section 2.2
+2025-01-29 22:15:31,732 - INFO - Creating/updating Notion page for assignment: Section 2.3
+2025-01-29 22:15:32,164 - INFO - Creating new page for: Section 2.3
+2025-01-29 22:15:32,645 - INFO - Creating/updating Notion page for assignment: Section 3.2
+2025-01-29 22:15:33,141 - INFO - Creating new page for: Section 3.2
+2025-01-29 22:15:33,561 - INFO - Creating/updating Notion page for assignment: Section 4.2
+2025-01-29 22:15:33,931 - INFO - Creating new page for: Section 4.2
+2025-01-29 22:15:34,290 - INFO - Creating/updating Notion page for assignment: Section 4.3
+2025-01-29 22:15:34,740 - INFO - Creating new page for: Section 4.3
+2025-01-29 22:15:35,179 - INFO - Creating/updating Notion page for assignment: Section 4.4
+2025-01-29 22:15:35,577 - INFO - Creating new page for: Section 4.4
+2025-01-29 22:15:35,919 - INFO - Creating/updating Notion page for assignment: Section 4.5
+2025-01-29 22:15:36,339 - INFO - Creating new page for: Section 4.5
+2025-01-29 22:15:36,692 - INFO - Processing course: 2025SP-MISC-HONORS-202
+2025-01-29 22:15:37,083 - INFO - Found 3 assignments in 2025SP-MISC-HONORS-202
+2025-01-29 22:15:37,084 - INFO - Creating/updating Notion page for assignment: Feb. Seminar 
+2025-01-29 22:15:37,479 - INFO - Creating new page for: Feb. Seminar 
+2025-01-29 22:15:37,860 - INFO - Creating/updating Notion page for assignment: March Seminar  
+2025-01-29 22:15:38,404 - INFO - Creating new page for: March Seminar  
+2025-01-29 22:15:38,761 - INFO - Creating/updating Notion page for assignment: April Seminar
+2025-01-29 22:15:39,405 - INFO - Creating new page for: April Seminar
+2025-01-29 22:15:39,753 - INFO - Processing course: 2025SP-PHYSICS-2129-1A
+2025-01-29 22:15:40,130 - INFO - Found 3 assignments in 2025SP-PHYSICS-2129-1A
+2025-01-29 22:15:40,130 - INFO - Creating/updating Notion page for assignment: Assignment 1
+2025-01-29 22:15:40,493 - INFO - Creating new page for: Assignment 1
+2025-01-29 22:15:40,932 - INFO - Creating/updating Notion page for assignment: Laboratory 1
+2025-01-29 22:15:41,441 - INFO - Creating new page for: Laboratory 1
+2025-01-29 22:15:41,805 - INFO - Creating/updating Notion page for assignment: Assignment 2
+2025-01-29 22:15:42,234 - INFO - Creating new page for: Assignment 2
+2025-01-29 22:15:42,717 - INFO - Processing course: 2025SP-PHYSICS-2305-101
+2025-01-29 22:15:43,212 - INFO - Found 5 assignments in 2025SP-PHYSICS-2305-101
+2025-01-29 22:15:43,212 - INFO - Creating/updating Notion page for assignment: HW01
+2025-01-29 22:15:43,611 - INFO - Creating new page for: HW01
+2025-01-29 22:15:44,432 - INFO - Creating/updating Notion page for assignment: HW02
+2025-01-29 22:15:44,827 - INFO - Creating new page for: HW02
+2025-01-29 22:15:45,188 - INFO - Creating/updating Notion page for assignment: Exam I
+2025-01-29 22:15:45,611 - INFO - Creating new page for: Exam I
+2025-01-29 22:15:46,455 - INFO - Creating/updating Notion page for assignment: Exam II
+2025-01-29 22:15:46,964 - INFO - Creating new page for: Exam II
+2025-01-29 22:15:47,461 - INFO - Creating/updating Notion page for assignment: Exam III
+2025-01-29 22:15:47,995 - INFO - Creating new page for: Exam III
+2025-01-29 22:15:48,383 - INFO - Processing course: 2025SP-PHYSICS-2401-101
+2025-01-29 22:15:48,972 - INFO - Found 10 assignments in 2025SP-PHYSICS-2401-101
+2025-01-29 22:15:48,972 - INFO - Creating/updating Notion page for assignment: Lecture 1: Complex numbers
+2025-01-29 22:15:49,422 - INFO - Creating new page for: Lecture 1: Complex numbers
+2025-01-29 22:15:49,832 - INFO - Creating/updating Notion page for assignment: Lecture 2: Vectors
+2025-01-29 22:15:50,190 - INFO - Creating new page for: Lecture 2: Vectors
+2025-01-29 22:15:50,639 - INFO - Creating/updating Notion page for assignment: Lecture 3: Vector Product
+2025-01-29 22:15:51,003 - INFO - Creating new page for: Lecture 3: Vector Product
+2025-01-29 22:15:51,358 - INFO - Creating/updating Notion page for assignment: Lecture 4: Applications of vectors
+2025-01-29 22:15:51,745 - INFO - Creating new page for: Lecture 4: Applications of vectors
+2025-01-29 22:15:52,073 - INFO - Creating/updating Notion page for assignment: Lecture 5: Vector transformations
+2025-01-29 22:15:52,472 - INFO - Creating new page for: Lecture 5: Vector transformations
+2025-01-29 22:15:55,137 - INFO - Creating/updating Notion page for assignment: Lecture 6: Eigenvalue problem (linear eqs)
+2025-01-29 22:15:55,541 - INFO - Creating new page for: Lecture 6: Eigenvalue problem (linear eqs)
+2025-01-29 22:15:55,911 - INFO - Creating/updating Notion page for assignment: Lecture 7: Eigenvalue and eigenvectors
+2025-01-29 22:15:56,344 - INFO - Creating new page for: Lecture 7: Eigenvalue and eigenvectors
+2025-01-29 22:15:56,741 - INFO - Creating/updating Notion page for assignment: Lecture 8: General vector spaces
+2025-01-29 22:15:57,293 - INFO - Creating new page for: Lecture 8: General vector spaces
+2025-01-29 22:15:57,615 - INFO - Creating/updating Notion page for assignment: Lecture 9: Linear Operators
+2025-01-29 22:15:58,401 - INFO - Creating new page for: Lecture 9: Linear Operators
+2025-01-29 22:16:01,895 - INFO - Creating/updating Notion page for assignment: HW1
+2025-01-29 22:16:02,350 - INFO - Creating new page for: HW1
+2025-01-29 22:16:02,790 - INFO - Sync completed successfully
+2025-01-29 22:17:42,673 - INFO - Starting Canvas to Notion sync
+2025-01-29 22:17:42,918 - INFO - Found 7 current semester courses
+2025-01-29 22:17:42,919 - INFO - Processing course: 2025SP-COMP_SCI-1200-102
+2025-01-29 22:17:43,272 - INFO - Found 3 assignments in 2025SP-COMP_SCI-1200-102
+2025-01-29 22:17:43,272 - INFO - Creating/updating Notion page for assignment: Syllabus quiz
+2025-01-29 22:17:43,730 - INFO - Updating existing page for: Syllabus quiz
+2025-01-29 22:17:44,113 - ERROR - Sync failed: cannot access local variable 'response' where it is not associated with a value
+2025-01-29 22:18:18,481 - INFO - Starting Canvas to Notion sync
+2025-01-29 22:18:18,732 - INFO - Found 7 current semester courses
+2025-01-29 22:18:18,732 - INFO - Processing course: 2025SP-COMP_SCI-1200-102
+2025-01-29 22:18:19,055 - INFO - Found 3 assignments in 2025SP-COMP_SCI-1200-102
+2025-01-29 22:18:19,056 - INFO - Creating/updating Notion page for assignment: Syllabus quiz
+2025-01-29 22:18:19,712 - INFO - Updating existing page for: Syllabus quiz
+2025-01-29 22:18:20,076 - ERROR - Sync failed: cannot access local variable 'response' where it is not associated with a value
+2025-01-29 22:19:18,807 - INFO - Starting Canvas to Notion sync
+2025-01-29 22:19:19,069 - INFO - Found 7 current semester courses
+2025-01-29 22:19:19,070 - INFO - Processing course: 2025SP-COMP_SCI-1200-102
+2025-01-29 22:19:19,411 - INFO - Found 3 assignments in 2025SP-COMP_SCI-1200-102
+2025-01-29 22:19:19,411 - INFO - Creating/updating Notion page for assignment: Syllabus quiz
+2025-01-29 22:19:20,090 - INFO - Updating existing page for: Syllabus quiz
+2025-01-29 22:19:20,461 - ERROR - Sync failed: cannot access local variable 'response' where it is not associated with a value
+2025-01-29 22:20:20,622 - INFO - Found 7 current semester courses
+2025-01-29 22:20:20,623 - INFO - Processing course: 2025SP-COMP_SCI-1200-102
+2025-01-29 22:20:20,986 - INFO - Found 3 assignments in 2025SP-COMP_SCI-1200-102
+2025-01-29 22:20:21,539 - INFO - Updating existing page for: Syllabus quiz
+2025-01-29 22:20:22,573 - INFO - Updating existing page for: discussion_bonus
+2025-01-29 22:20:23,417 - INFO - Updating existing page for: pa00_factors
+2025-01-29 22:20:23,768 - INFO - Processing course: 2025SP-MATH-3108-104
+2025-01-29 22:20:24,363 - INFO - Found 10 assignments in 2025SP-MATH-3108-104
+2025-01-29 22:20:24,946 - INFO - Updating existing page for: Section 2.1 Homework
+2025-01-29 22:20:26,048 - INFO - Updating existing page for: Section 6.1 Homework
+2025-01-29 22:20:26,907 - INFO - Updating existing page for: Section 1.4 Homework
+2025-01-29 22:20:27,765 - INFO - Updating existing page for: Section 1.5 Homework
+2025-01-29 22:20:29,357 - INFO - Updating existing page for: Section 6.3 Homework
+2025-01-29 22:20:30,189 - INFO - Updating existing page for: Section 4.2 Homework
+2025-01-29 22:20:32,518 - INFO - Updating existing page for: Section 1.7 Homework
+2025-01-29 22:20:33,267 - INFO - Updating existing page for: Section 1.8 Homework
+2025-01-29 22:20:34,429 - INFO - Updating existing page for: Section 2.3 Homework
+2025-01-29 22:20:35,174 - INFO - Updating existing page for: Section 3.3 Homework
+2025-01-29 22:20:35,749 - INFO - Processing course: 2025SP-MATH-3304-103
+2025-01-29 22:20:36,174 - INFO - Found 10 assignments in 2025SP-MATH-3304-103
+2025-01-29 22:20:36,753 - INFO - Updating existing page for: Section 1.1
+2025-01-29 22:20:38,344 - INFO - Updating existing page for: Section 1.2
+2025-01-29 22:20:40,575 - INFO - Updating existing page for: Section 1.3
+2025-01-29 22:20:42,547 - INFO - Updating existing page for: Section 2.2
+2025-01-29 22:20:43,551 - INFO - Updating existing page for: Section 2.3
+2025-01-29 22:20:44,496 - INFO - Updating existing page for: Section 3.2
+2025-01-29 22:20:47,682 - INFO - Updating existing page for: Section 4.2
+2025-01-29 22:20:48,484 - INFO - Updating existing page for: Section 4.3
+2025-01-29 22:20:51,108 - INFO - Updating existing page for: Section 4.4
+2025-01-29 22:20:51,891 - INFO - Updating existing page for: Section 4.5
+2025-01-29 22:20:52,400 - INFO - Processing course: 2025SP-MISC-HONORS-202
+2025-01-29 22:20:52,801 - INFO - Found 3 assignments in 2025SP-MISC-HONORS-202
+2025-01-29 22:20:53,286 - INFO - Updating existing page for: Feb. Seminar 
+2025-01-29 22:20:55,935 - INFO - Updating existing page for: March Seminar  
+2025-01-29 22:20:56,680 - INFO - Updating existing page for: April Seminar
+2025-01-29 22:20:57,038 - INFO - Processing course: 2025SP-PHYSICS-2129-1A
+2025-01-29 22:20:57,391 - INFO - Found 3 assignments in 2025SP-PHYSICS-2129-1A
+2025-01-29 22:20:57,875 - INFO - Updating existing page for: Assignment 1
+2025-01-29 22:20:58,653 - INFO - Updating existing page for: Laboratory 1
+2025-01-29 22:20:59,642 - INFO - Updating existing page for: Assignment 2
+2025-01-29 22:21:00,118 - INFO - Processing course: 2025SP-PHYSICS-2305-101
+2025-01-29 22:21:00,507 - INFO - Found 5 assignments in 2025SP-PHYSICS-2305-101
+2025-01-29 22:21:01,017 - INFO - Updating existing page for: HW01
+2025-01-29 22:21:02,207 - INFO - Updating existing page for: HW02
+2025-01-29 22:21:03,210 - INFO - Updating existing page for: Exam I
+2025-01-29 22:21:08,420 - INFO - Updating existing page for: Exam II
+2025-01-29 22:21:09,637 - INFO - Updating existing page for: Exam III
+2025-01-29 22:21:10,107 - INFO - Processing course: 2025SP-PHYSICS-2401-101
+2025-01-29 22:21:10,640 - INFO - Found 10 assignments in 2025SP-PHYSICS-2401-101
+2025-01-29 22:21:11,138 - INFO - Updating existing page for: Lecture 1: Complex numbers
+2025-01-29 22:21:11,881 - INFO - Updating existing page for: Lecture 2: Vectors
+2025-01-29 22:21:12,788 - INFO - Updating existing page for: Lecture 3: Vector Product
+2025-01-29 22:21:13,781 - INFO - Updating existing page for: Lecture 4: Applications of vectors
+2025-01-29 22:21:14,544 - INFO - Updating existing page for: Lecture 5: Vector transformations
+2025-01-29 22:21:16,409 - INFO - Updating existing page for: Lecture 6: Eigenvalue problem (linear eqs)
+2025-01-29 22:21:17,318 - INFO - Updating existing page for: Lecture 7: Eigenvalue and eigenvectors
+2025-01-29 22:21:18,283 - INFO - Updating existing page for: Lecture 8: General vector spaces
+2025-01-29 22:21:19,348 - INFO - Updating existing page for: Lecture 9: Linear Operators
+2025-01-29 22:21:20,302 - INFO - Updating existing page for: HW1
+2025-01-29 22:21:21,006 - INFO - Sync completed successfully
