@@ -2,6 +2,11 @@ import os
 import requests
 from datetime import datetime
 from typing import Dict, List, Optional
+from dotenv import load_dotenv
+import os
+
+# Load environment variables from .env file
+load_dotenv()
 
 class CanvasNotionSync:
     def __init__(self, canvas_api_key: str, canvas_domain: str, notion_api_key: str, notion_database_id: str):
